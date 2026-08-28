@@ -7,9 +7,11 @@ public:
             i--;
         }
         if(i>=0){
+           
             int j = n-1;
-            while(nums[j]<=nums[i]){
+            while(j>=0 && nums[j]<=nums[i]){
                 j--;
+
             }
             swap(nums[i],nums[j]);
         }
