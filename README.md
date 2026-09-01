@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 8 | 7 |
+| 9 | 9 |
 
 ---
 
@@ -16,8 +16,10 @@
 - [Uncategorized](#uncategorized) (2)
 - [brute force](#brute-force) (3)
 - [constructive algorithms](#constructive-algorithms) (1)
+- [dp](#dp) (1)
+- [greedy](#greedy) (1)
 - [implementation](#implementation) (5)
-- [math](#math) (1)
+- [math](#math) (2)
 - [strings](#strings) (1)
 
 ---
@@ -49,6 +51,18 @@
 |---|---------|------------|----------|
 | 637C | [Promocodes with Mistakes](https://codeforces.com/contest/637/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Rigur-Calypso/submissions/blob/HEAD/637/C%20-%20Promocodes%20with%20Mistakes/solution.cpp) |
 
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 534B | [Covered Path](https://codeforces.com/contest/534/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Rigur-Calypso/submissions/blob/HEAD/534/B%20-%20Covered%20Path/solution.cpp) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 534B | [Covered Path](https://codeforces.com/contest/534/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Rigur-Calypso/submissions/blob/HEAD/534/B%20-%20Covered%20Path/solution.cpp) |
+
 ### implementation
 
 | # | Problem | Difficulty | Solution |
@@ -64,6 +78,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Rigur-Calypso/submissions/blob/HEAD/200/B%20-%20Drinks/solution.cpp) |
+| 534B | [Covered Path](https://codeforces.com/contest/534/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Rigur-Calypso/submissions/blob/HEAD/534/B%20-%20Covered%20Path/solution.cpp) |
 
 ### strings
 
