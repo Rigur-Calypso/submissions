@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 10 | 9 |
+| 11 | 9 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [dp](#dp) (1)
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (6)
+- [implementation](#implementation) (7)
 - [math](#math) (3)
 - [strings](#strings) (1)
 
@@ -74,6 +74,7 @@
 | 344A | [Magnets](https://codeforces.com/contest/344/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Rigur-Calypso/submissions/blob/HEAD/344/A%20-%20Magnets/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Rigur-Calypso/submissions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 637C | [Promocodes with Mistakes](https://codeforces.com/contest/637/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Rigur-Calypso/submissions/blob/HEAD/637/C%20-%20Promocodes%20with%20Mistakes/solution.cpp) |
+| 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Rigur-Calypso/submissions/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.cpp) |
 
 ### math
 
