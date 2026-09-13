@@ -259,12 +259,6 @@ void allahlovesjesus()
     
     cin>>a;
     sort(all(a));
-    for(int i =1;i<n;i++){
-        if(a[i]==a[i-1]){
-            cout<<1<<el;
-            return;
-        }
-    }
     if(n==1){
         cout<<0<<el;
         return;
