@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 29 | 14 |
+| 30 | 14 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [*special](#special) (1)
+- [*special](#special) (2)
 - [Uncategorized](#uncategorized) (8)
 - [brute force](#brute-force) (7)
 - [constructive algorithms](#constructive-algorithms) (3)
@@ -20,7 +20,7 @@
 - [dp](#dp) (3)
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (6)
-- [implementation](#implementation) (17)
+- [implementation](#implementation) (18)
 - [math](#math) (6)
 - [matrices](#matrices) (1)
 - [shortest paths](#shortest-paths) (1)
@@ -33,6 +33,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Rigur-Calypso/submissions/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
 | 637C | [Promocodes with Mistakes](https://codeforces.com/contest/637/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Rigur-Calypso/submissions/blob/HEAD/637/C%20-%20Promocodes%20with%20Mistakes/solution.cpp) |
 
 ### Uncategorized
@@ -104,6 +105,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 61A | [Ultra-Fast Mathematician](https://codeforces.com/contest/61/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Rigur-Calypso/submissions/blob/HEAD/61/A%20-%20Ultra-Fast%20Mathematician/solution.cpp) |
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Rigur-Calypso/submissions/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Rigur-Calypso/submissions/blob/HEAD/200/B%20-%20Drinks/solution.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Rigur-Calypso/submissions/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Rigur-Calypso/submissions/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
