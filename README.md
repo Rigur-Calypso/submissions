@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 31 | 14 |
+| 32 | 14 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (4)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (7)
+- [greedy](#greedy) (8)
 - [implementation](#implementation) (18)
 - [math](#math) (6)
 - [matrices](#matrices) (1)
@@ -94,6 +94,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 435B | [Pasha Maximizes](https://codeforces.com/contest/435/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Rigur-Calypso/submissions/blob/HEAD/435/B%20-%20Pasha%20Maximizes/solution.cpp) |
 | 489C | [Given Length and Sum of Digits...](https://codeforces.com/contest/489/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Rigur-Calypso/submissions/blob/HEAD/489/C%20-%20Given%20Length%20and%20Sum%20of%20Digits.../solution.cpp) |
 | 492C | [Vanya and Exams](https://codeforces.com/contest/492/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Rigur-Calypso/submissions/blob/HEAD/492/C%20-%20Vanya%20and%20Exams/solution.cpp) |
 | 520B | [Two Buttons](https://codeforces.com/contest/520/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Rigur-Calypso/submissions/blob/HEAD/520/B%20-%20Two%20Buttons/solution.cpp) |
