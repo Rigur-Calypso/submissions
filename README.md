@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 32 | 14 |
+| 33 | 14 |
 
 ---
 
@@ -17,11 +17,11 @@
 - [brute force](#brute-force) (7)
 - [constructive algorithms](#constructive-algorithms) (3)
 - [dfs and similar](#dfs-and-similar) (1)
-- [dp](#dp) (4)
+- [dp](#dp) (5)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (8)
+- [greedy](#greedy) (9)
 - [implementation](#implementation) (18)
-- [math](#math) (6)
+- [math](#math) (7)
 - [matrices](#matrices) (1)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (2)
@@ -83,6 +83,7 @@
 | 534B | [Covered Path](https://codeforces.com/contest/534/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Rigur-Calypso/submissions/blob/HEAD/534/B%20-%20Covered%20Path/solution.cpp) |
 | 538B | [Quasi Binary](https://codeforces.com/contest/538/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Rigur-Calypso/submissions/blob/HEAD/538/B%20-%20Quasi%20Binary/solution.cpp) |
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Rigur-Calypso/submissions/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.cpp) |
+| 1472B | [Fair Division](https://codeforces.com/contest/1472/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Rigur-Calypso/submissions/blob/HEAD/1472/B%20-%20Fair%20Division/solution.cpp) |
 
 ### graphs
 
@@ -101,6 +102,7 @@
 | 534B | [Covered Path](https://codeforces.com/contest/534/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Rigur-Calypso/submissions/blob/HEAD/534/B%20-%20Covered%20Path/solution.cpp) |
 | 538B | [Quasi Binary](https://codeforces.com/contest/538/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Rigur-Calypso/submissions/blob/HEAD/538/B%20-%20Quasi%20Binary/solution.cpp) |
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Rigur-Calypso/submissions/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.cpp) |
+| 1472B | [Fair Division](https://codeforces.com/contest/1472/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Rigur-Calypso/submissions/blob/HEAD/1472/B%20-%20Fair%20Division/solution.cpp) |
 | 2162A | [Beautiful Average](https://codeforces.com/contest/2162/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Rigur-Calypso/submissions/blob/HEAD/2162/A%20-%20Beautiful%20Average/solution.cpp) |
 
 ### implementation
@@ -136,6 +138,7 @@
 | 534B | [Covered Path](https://codeforces.com/contest/534/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Rigur-Calypso/submissions/blob/HEAD/534/B%20-%20Covered%20Path/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Rigur-Calypso/submissions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 581C | [Developing Skills](https://codeforces.com/contest/581/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Rigur-Calypso/submissions/blob/HEAD/581/C%20-%20Developing%20Skills/solution.cpp) |
+| 1472B | [Fair Division](https://codeforces.com/contest/1472/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Rigur-Calypso/submissions/blob/HEAD/1472/B%20-%20Fair%20Division/solution.cpp) |
 
 ### matrices
 
