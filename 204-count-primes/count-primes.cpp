@@ -1,25 +1,17 @@
 class Solution {
 public:
+#define ll long long
     int countPrimes(int n) {
-        if (n < 3) {
-            return 0;
-        }
-        bool isprime[n];
-
-        memset(isprime, true, n);
-
-        int result = n / 2;
-        for (int i = 3; i * i < n; i += 2) {
-            if (isprime[i]) {
-                int d = i * 2;
-                for (int j = i * i; j < n; j += d) {
-                    if (isprime[j]) {
-                        isprime[j] = false;
-                        result--;
-                    }
-                }
+        if (n == -1 || n == 0) return 0;
+        vector<ll> spf(n + 1, 0);
+        for (ll i=1; i<=n; i++) spf[i] = i;
+        for (ll i=2; i<=n; i++){
+            if (spf[i] == i){
+                for (ll j = i*i; j<=n; j+=i) spf[j] = i;
             }
         }
-        return result;
+        ll cnt = 0;
+        for (ll i=2; i<n; i++) if (spf[i] == i) cnt++;
+        return cnt;
     }
 };
