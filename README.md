@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 43 | 14 |
+| 44 | 14 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (2)
-- [Uncategorized](#uncategorized) (17)
+- [Uncategorized](#uncategorized) (18)
 - [brute force](#brute-force) (8)
 - [constructive algorithms](#constructive-algorithms) (3)
 - [dfs and similar](#dfs-and-similar) (1)
@@ -57,6 +57,7 @@
 | 2284A1 | [15K4JR3B (Easy Version)](https://codeforces.com/contest/2284/problem/A1) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Rigur-Calypso/submissions/blob/HEAD/2284/A1%20-%2015K4JR3B%20(Easy%20Version)/solution.cpp) |
 | 2284A2 | [15K4JR3B (Hard Version)](https://codeforces.com/contest/2284/problem/A2) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Rigur-Calypso/submissions/blob/HEAD/2284/A2%20-%2015K4JR3B%20(Hard%20Version)/solution.cpp) |
 | 2284B | [Introduction to the Niche Internet](https://codeforces.com/contest/2284/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Rigur-Calypso/submissions/blob/HEAD/2284/B%20-%20Introduction%20to%20the%20Niche%20Internet/solution.cpp) |
+| 2284C1 | [Disgusting + GCD (Constructive Version)](https://codeforces.com/contest/2284/problem/C1) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Rigur-Calypso/submissions/blob/HEAD/2284/C1%20-%20Disgusting%20%2B%20GCD%20(Constructive%20Version)/solution.cpp) |
 
 ### brute force
 
