@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 46 | 14 |
+| 47 | 14 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (2)
-- [Uncategorized](#uncategorized) (20)
+- [Uncategorized](#uncategorized) (21)
 - [brute force](#brute-force) (8)
 - [constructive algorithms](#constructive-algorithms) (3)
 - [dfs and similar](#dfs-and-similar) (1)
@@ -60,6 +60,7 @@
 | 2284C1 | [Disgusting + GCD (Constructive Version)](https://codeforces.com/contest/2284/problem/C1) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Rigur-Calypso/submissions/blob/HEAD/2284/C1%20-%20Disgusting%20%2B%20GCD%20(Constructive%20Version)/solution.cpp) |
 | 2292A | [Picnic for Two](https://codeforces.com/contest/2292/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Rigur-Calypso/submissions/blob/HEAD/2292/A%20-%20Picnic%20for%20Two/solution.cpp) |
 | 2292B | [Grapefruit Juice](https://codeforces.com/contest/2292/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Rigur-Calypso/submissions/blob/HEAD/2292/B%20-%20Grapefruit%20Juice/solution.cpp) |
+| 2292C | [Finding Shapes in the Clouds](https://codeforces.com/contest/2292/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Rigur-Calypso/submissions/blob/HEAD/2292/C%20-%20Finding%20Shapes%20in%20the%20Clouds/solution.cpp) |
 
 ### brute force
 
