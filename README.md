@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 47 | 14 |
+| 48 | 14 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (2)
-- [Uncategorized](#uncategorized) (21)
+- [Uncategorized](#uncategorized) (22)
 - [brute force](#brute-force) (8)
 - [constructive algorithms](#constructive-algorithms) (3)
 - [dfs and similar](#dfs-and-similar) (1)
@@ -61,6 +61,7 @@
 | 2292A | [Picnic for Two](https://codeforces.com/contest/2292/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Rigur-Calypso/submissions/blob/HEAD/2292/A%20-%20Picnic%20for%20Two/solution.cpp) |
 | 2292B | [Grapefruit Juice](https://codeforces.com/contest/2292/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Rigur-Calypso/submissions/blob/HEAD/2292/B%20-%20Grapefruit%20Juice/solution.cpp) |
 | 2292C | [Finding Shapes in the Clouds](https://codeforces.com/contest/2292/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Rigur-Calypso/submissions/blob/HEAD/2292/C%20-%20Finding%20Shapes%20in%20the%20Clouds/solution.cpp) |
+| 2292D | [Unexpected Precipitation](https://codeforces.com/contest/2292/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Rigur-Calypso/submissions/blob/HEAD/2292/D%20-%20Unexpected%20Precipitation/solution.cpp) |
 
 ### brute force
 
